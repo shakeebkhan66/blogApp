@@ -4,7 +4,7 @@ A new Flutter application.
 
 # Image
 
-<img src="https://user-images.githubusercontent.com/73787635/132199066-56c5e4e0-4418-4e51-9d4e-5f97af871bf3.jpeg" height = 400, widht = 250/>
+<img src="https://user-images.githubusercontent.com/73787635/132199066-56c5e4e0-4418-4e51-9d4e-5f97af871bf3.jpeg" height = 400, widht = 300/>
 
 ## Getting Started
 
