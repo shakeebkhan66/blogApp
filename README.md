@@ -6,6 +6,10 @@ A new Flutter application.
 
 <img src="https://user-images.githubusercontent.com/73787635/132199066-56c5e4e0-4418-4e51-9d4e-5f97af871bf3.jpeg" height = 400, widht = 300/>
 
+# Working Gif
+
+<img src="https://user-images.githubusercontent.com/73787635/132199814-7cfeb873-6c1f-4850-b301-fe238018be38.gif" height = 400, widht = 350/>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
